@@ -6,7 +6,7 @@ Actualmente estoy ampliando mi stack hacia el frontend con **React**, explorando
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Tecnologías
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -32,7 +32,7 @@ Actualmente estoy ampliando mi stack hacia el frontend con **React**, explorando
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcosDeMiguel&theme=tokyonight)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcosDeMiguel&theme=tokyo-night)
