@@ -24,14 +24,6 @@ Actualmente estoy ampliando mi stack hacia el frontend con **React**, explorando
 
 ---
 
-## Lenguajes que uso frecuentemente
-
-| Backend     | Bases de Datos    | Frontend     |
-|-------------|-------------------|--------------|
-| Python, C#, Django, .NET Core  | PostgreSQL, MySQL, SQL Server | React, JS, HTML, CSS |
-
----
-
 ## 📊 Estadísticas
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcosDeMiguel&theme=tokyonight)
