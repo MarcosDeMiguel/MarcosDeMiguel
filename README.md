@@ -36,8 +36,6 @@ Actualmente estoy ampliando mi stack hacia el frontend con **React**, explorando
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcosDeMiguel&theme=tokyonight)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcosDeMiguel&theme=tokyo-night)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MarcosDeMiguel&theme=tokyonight&row=1&column=7)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MarcosDeMiguel&theme=tokyonight&no-frame=true&margin-w=10&title=Followers,Stars,Fork,Repositories,PullRequest,Commit)
 
 ---
 
@@ -47,4 +45,4 @@ Actualmente estoy ampliando mi stack hacia el frontend con **React**, explorando
 
 ---
 
-_Gracias por visitar mi perfil. Si algún proyecto te interesa o querés colaborar, ¡escribime!_
+_Gracias por visitar mi perfil._
