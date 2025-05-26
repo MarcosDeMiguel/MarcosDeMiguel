@@ -24,7 +24,7 @@ Actualmente estoy ampliando mi stack hacia el frontend con **React**, explorando
 
 ---
 
-### Lenguajes que uso frecuentemente
+## Lenguajes que uso frecuentemente
 
 | Backend     | Bases de Datos    | Frontend     |
 |-------------|-------------------|--------------|
