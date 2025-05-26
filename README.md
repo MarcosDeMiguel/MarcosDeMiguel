@@ -15,6 +15,7 @@ Actualmente estoy ampliando mi stack hacia el frontend con **React**, explorando
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -23,10 +24,18 @@ Actualmente estoy ampliando mi stack hacia el frontend con **React**, explorando
 
 ---
 
+### Lenguajes que uso frecuentemente
+
+| Backend     | Bases de Datos    | Frontend     |
+|-------------|-------------------|--------------|
+| Python, C#  | PostgreSQL, MySQL, SQL Server | React, JS |
+| Django, .NET Core |              | HTML, CSS    |
+
+---
+
 ## 📊 Estadísticas de GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcosDeMiguel&show_icons=true&theme=tokyonight&hide=issues&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDeMiguel&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcosDeMiguel&theme=tokyonight)
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarcosDeMiguel&theme=tokyo-night)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MarcosDeMiguel&theme=tokyonight&row=1&column=7)
