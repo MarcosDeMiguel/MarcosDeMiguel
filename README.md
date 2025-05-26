@@ -28,8 +28,7 @@ Actualmente estoy ampliando mi stack hacia el frontend con **React**, explorando
 
 | Backend     | Bases de Datos    | Frontend     |
 |-------------|-------------------|--------------|
-| Python, C#  | PostgreSQL, MySQL, SQL Server | React, JS |
-| Django, .NET Core |              | HTML, CSS    |
+| Python, C#, Django, .NET Core  | PostgreSQL, MySQL, SQL Server | React, JS, HTML, CSS |
 
 ---
 
