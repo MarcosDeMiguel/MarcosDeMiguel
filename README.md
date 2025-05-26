@@ -36,7 +36,7 @@ Actualmente estoy ampliando mi stack hacia el frontend con **React**, explorando
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcosDeMiguel&show_icons=true&theme=tokyonight&hide=issues&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MarcosDeMiguel&theme=tokyonight)
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=MarcosDeMiguel&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcosDeMiguel&theme=tokyo-night)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MarcosDeMiguel&theme=tokyonight&row=1&column=7)
 
 ---
