@@ -87,9 +87,9 @@ Actualmente estoy ampliando mi stack hacia el **frontend con React**, explorando
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDeMiguel&layout=compact&theme=tokyonight) 
+![Top Langs](./assets/top-langs.svg) 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MarcosDeMiguel&theme=tokyonight)  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosDeMiguel&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=MarcosDeMiguel&theme=tokyonight)  ![GitHub stats](./assets/stats.svg)  
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcosDeMiguel&theme=tokyo-night)
 
