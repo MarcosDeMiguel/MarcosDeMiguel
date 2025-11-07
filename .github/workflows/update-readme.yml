@@ -1,15 +1,34 @@
 name: Update README with private stats
 
 on:
+  workflow_dispatch:    # para lanzarlo a mano
   schedule:
-    - cron: '0 */12 * * *' # cada 12 horas
-  workflow_dispatch:
+    - cron: '0 6 * * *' # todos los días a las 06:00 UTC
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Actualizar README con stats privados
-        uses: anuraghazra/github-readme-stats@master
-        env:
-          PAT_1: ${{ secrets.PAT_1 }}
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Create assets folder
+        run: mkdir -p assets
+
+      - name: Download stats svg (with private)
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=MarcosDeMiguel&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&token=${{ secrets.PAT_1 }}" -o assets/stats.svg
+
+      - name: Download top-langs svg (with private)
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosDeMiguel&layout=compact&theme=tokyonight&count_private=true&token=${{ secrets.PAT_1 }}" -o assets/top-langs.svg
+
+      - name: Update README from template
+        run: cp README.template.md README.md
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update readme stats"
+          file_pattern: "README.md assets/*.svg"
