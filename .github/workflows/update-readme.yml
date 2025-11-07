@@ -1,18 +1,19 @@
 name: Update README with private stats
 
 on:
-  workflow_dispatch:    # para lanzarlo a mano
+  workflow_dispatch:
   schedule:
-    - cron: '0 6 * * *' # todos los días a las 06:00 UTC
-
+    - cron: '0 6 * * 0'
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repo with PAT
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PUSH_TOKEN }}  
 
       - name: Create assets folder
         run: mkdir -p assets
@@ -34,4 +35,4 @@ jobs:
           commit_message: "chore: update readme stats"
           file_pattern: "README.md assets/*.svg"
         env:
-          GIT_AUTH_TOKEN: ${{ secrets.GH_PUSH_TOKEN }}
+          GIT_AUTH_TOKEN: ${{ secrets.GH_PUSH_TOKEN }}   
