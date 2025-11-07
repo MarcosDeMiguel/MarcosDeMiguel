@@ -1,0 +1,15 @@
+name: Update README with private stats
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # cada 12 horas
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Actualizar README con stats privados
+        uses: anuraghazra/github-readme-stats@master
+        env:
+          PAT_1: ${{ secrets.PAT_1 }}
